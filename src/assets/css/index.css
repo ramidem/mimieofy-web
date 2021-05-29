@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Lato';
+  src: local('Lato'), url('../fonts/Lato-Regular.ttf') format('truetype');
+}
+
+:root {
+  --primary-color: #3EB6D0;
+  --secondary-color: #5C5C5C;
+  --primary: #3EB6D0;
+  --secondary: #5C5C5C;
+  --hover-state: #0B93B0;
+  --disabled-state: #9FD0DB;
+}
+
+html {
+  font-size: 18px;
+}
